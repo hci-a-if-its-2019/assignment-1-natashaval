@@ -22,16 +22,16 @@ First, this will be instructions on what to buy:
 3. Buy 2 products 'Casing Case Hologram SPace' for Oppo F5 sent from Surabaya
 
 Next, this will be instructions on shopping cart section:
-4. Change variant of 'Casing Case Hologram SPace' product to **Variasi Oppo A71 Space**
-5. Delete 'Oppo A71 2018 Smartphone 2GB + 16GB' from oppo.id
-6. Add 'Oppo F7 Case 4GB & 6GB' from oppo.id up to 5 products
-7. Apply *Gratis Ongkir* voucher
-8. Use up *Koin Shopee*
-9. Checkout Products
+1. Change variant of 'Casing Case Hologram SPace' product to **Variasi Oppo A71 Space**
+2. Delete 'Oppo A71 2018 Smartphone 2GB + 16GB' from oppo.id
+3. Add 'Oppo F7 Case 4GB & 6GB' from oppo.id up to 5 products
+4. Apply *Gratis Ongkir* voucher
+5. Use up *Koin Shopee*
+6. Checkout Products
 
 Lastly, the instructions for checkout are:
-10. Add your address
-11. Change Payment Method to 'Akulaku' with 1 Month Installment
+1. Add your address
+2. Change Payment Method to 'Akulaku' with 1 Month Installment
 
 ## User Description
 - The user is a female user of Indonesia origin aged about 40 years old.
