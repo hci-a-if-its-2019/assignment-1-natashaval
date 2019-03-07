@@ -16,26 +16,31 @@ Sources are taken from:
 6. In online shopping, which category would you search for?
 
 ### Specific Instructions
-This inqury will only focus in one feature of Shopee, which is Shopee Shopping Cart. Therefore several products has been added to cart beforehand. The products are:
-- Oppo F9 4GB+64GB Purple Smartphone Android 8.1 25 MP from oppo.id (Shopee Mall) sent from Tangerang
-- OPPO F9 Case 4GB & 6GB-OPPO Official Accessories **Color Red** from oppo.id (Shopee Mall) sent from Tangerang
-- Camera Case (Popsocket +Strap) **Color Pink, Variant Case+Pop+Strap** from multicaseshop sent from Surabaya
+This inqury will only focus in doing online shop from Shopee website.
+First, this will be instructions on what to buy:
+1. Buy 1 'Oppo A71 2018 Smartphone 2GB + 16GB' Variant Gold from oppo.id Official Store in Shopee Mall
+2. From the same store, buy 1 'Oppo F7 Case 4GB & 6GB - Oppo Official Accessories' Variation Red
+3. Buy 2 products 'Casing Case Hologram SPace' for Oppo F5 sent from Surabaya with price range between Rp 20.000,00 to Rp 40.000,00
+4. From 'Casing Case Hologram Space' if seller provide *Voucher Toko*, claim the voucher
 
-This will be instructions on shopping cart section:
-1. Change variant of 'Camera Case' product in multicaseshop to **Color Blue, Variant Case+PopSocket**
-2. Delete 'Oppo F9 4GB+64GB Purple Smartphone Android' from oppo.id
-3. Add 'Oppo F9 Case 4GB & 6GB-OPPO Official Accessories' from oppo.id up to 10 products
-4. Change back 'Oppo F9 Case' total of 10 products to 1 product
-5. Apply *Gratis Ongkir* voucher
-6. Use up *Koin Shopee*
-7. Checkout Products
+Next, this will be instructions on shopping cart section:
+5. Change variant of 'Casing Case Hologram SPace' product to **Variasi Oppo A71 Space**
+6. Delete 'Oppo A71 2018 Smartphone 2GB + 16GB' from oppo.id
+7. Add 'Oppo F7 Case 4GB & 6GB' from oppo.id up to 100 products
+8. Change back 'Oppo F7 Case' total of 100 products to 1 product
+9. Apply *Gratis Ongkir* voucher
+10. Use up *Koin Shopee*
+11. Checkout Products
+
+Lastly, the instructions for checkout are:
+12. Add your address
+13. Change Payment Method to 'Akulaku' with 1 Month Installment
 
 ## User Description
-- The user is a male user of Indonesia origin aged about 50 years old.
-- His name is Eddy Santoso (my father)
-- He prefers to online shop by web browser in desktop and rarely uses mobile application.
-- He has done several online shopping with different e-commerce [Blibli.com](https://www.blibli.com/), he prefer Blibli because its main color is calming Blue, it gives free shipping costs, and sometimes it holds flash sale with reasonable price.
-- He usually buy online products once a month, mainly Men Fashion.
+- The user is a female user of Indonesia origin aged about 40 years old.
+- She has relationship as my mother.
+- She prefers to online shop uses mobile application and rarely open website browser.
+- She usually buy online products once a month, mainly Home and Living category.
 
 ## Transcript
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
