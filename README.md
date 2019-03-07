@@ -37,6 +37,7 @@ Lastly, the instructions for checkout are:
 - The user is a female user of Indonesia origin aged about 40 years old.
 - She has relationship as my mother.
 - She prefers to online shop uses mobile application and never open website browser.
+- She is already familiar with Shopee e-commerce
 - She usually buy online products once a month, mainly Home and Living category.
 
 ## Transcript
@@ -133,6 +134,15 @@ Lastly, the instructions for checkout are:
 ### Flow Model
 ![Flow Model and Annotation](images/flowmodel.JPG)
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![Cultural Model and Annotation](images/culturalmodel.JPG)
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+### Do's
+- Provide search bar for filter, rather than click on a text
+- Add shop location
+- Make voucher menu bigger
+- Make keyboard "Enter" working when change product quantity
+
+### Dont's
+- Put ads that do not match with search keyword
+- Make error sign small
+- List same name products
