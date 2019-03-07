@@ -12,8 +12,7 @@ Sources are taken from:
 2. How often do you online shop?
 3. Which device do you prefer to use? Desktop or mobile?
 4. Which platform would you prefer in searching products? Browser or mobile application?
-5. From amongst these e-commerce, 'Shopee, Tokopedia, Bukalapak, Blibli, Lazada', which one is the most convenient for you and what are the reasons?
-6. In online shopping, which category would you search for?
+5. In online shopping, which category would you search for?
 
 ### Specific Instructions
 This inqury will only focus in doing online shop from Shopee website.
@@ -23,24 +22,25 @@ First, this will be instructions on what to buy:
 3. Buy 2 products 'Casing Case Hologram SPace' for Oppo F5 sent from Surabaya
 
 Next, this will be instructions on shopping cart section:
-5. Change variant of 'Casing Case Hologram SPace' product to **Variasi Oppo A71 Space**
-6. Delete 'Oppo A71 2018 Smartphone 2GB + 16GB' from oppo.id
-7. Add 'Oppo F7 Case 4GB & 6GB' from oppo.id up to 5 products
-8. Apply *Gratis Ongkir* voucher
-9. Use up *Koin Shopee*
-10. Checkout Products
+4. Change variant of 'Casing Case Hologram SPace' product to **Variasi Oppo A71 Space**
+5. Delete 'Oppo A71 2018 Smartphone 2GB + 16GB' from oppo.id
+6. Add 'Oppo F7 Case 4GB & 6GB' from oppo.id up to 5 products
+7. Apply *Gratis Ongkir* voucher
+8. Use up *Koin Shopee*
+9. Checkout Products
 
 Lastly, the instructions for checkout are:
-11. Add your address
-12. Change Payment Method to 'Akulaku' with 1 Month Installment
+10. Add your address
+11. Change Payment Method to 'Akulaku' with 1 Month Installment
 
 ## User Description
 - The user is a female user of Indonesia origin aged about 40 years old.
 - She has relationship as my mother.
-- She prefers to online shop uses mobile application and rarely open website browser.
+- She prefers to online shop uses mobile application and never open website browser.
 - She usually buy online products once a month, mainly Home and Living category.
 
 ## Transcript
+### Buy products
 ```
 01. Nat     : "Jadi, mama akan ditampilkan halaman Shopee. Kemudian, aku akan memberikan langkah-langkah yang harus dilakukan untuk membeli beberapa produk."
 02. Nat     : "Satu, beli Oppo A71 2018 warna Gold dari oppo id Official Store."
@@ -86,13 +86,15 @@ Lastly, the instructions for checkout are:
 40. User    : (memilih menu Kunjungi Toko) "Nyari Surabaya ne yak apa ini coba?"
 41. User    : (kebingungan) "Hah... ga tau aku ini, darimana seh ini? Surabaya ne disebelah mana ini?"
 42. User    : (menekan tombol kembali dan melihat kembali produk dengan scroll ke bawah) "Oh ini dikirim dari kota Surabaya, Tegalsari."
-43. Nat     : "Dikirim dari Surabaya dengan varian Oppo F5. Casing case hologram space."
+43. Nat     : "Dikirim dari Surabaya dengan varian Oppo F5. Casing case hologram space. Jumlahnya dua buah."
 44. User    : (masuk ke menu Kunjungi Toko) "Kunjungi Toko... Ini sudah masuk toko ne ta?"
 45. Nat     : "Iya, sudah."
 46. User    : (mengetik oppo f5 case hologram space di search bar dan memilih produk pertama) "Ini ya?"
-47. Nat     : "Varian F5."
+47. Nat     : "Varian F5. Jumlahnya dua."
 48. User    : (memilih varian F5 dan menekan Beli Sekarang sehingga masuk ke keranjang belanja)
-==========
+```
+### Shopping Cart
+```
 49. Nat     : "Selanjutnya tetap disini bagian keranjang belanja."
 50. Nat     : "Satu, ganti casing case hologram space menjadi variasi Oppo A71 Space."
 51. User    : (memilih casing case hologram space yang ada dan masuk kembali ke halaman produk, kemudian memilih variasi Oppo A71 Space dan menekan tombol Beli Sekarang)
@@ -100,24 +102,36 @@ Lastly, the instructions for checkout are:
 53. Nat     : "Dua, delete Oppo A71 2018 smartphone dari Oppo id."
 54. User    : (menekan tombol minus pada produk Oppo A71)
 55. Nat     : "Ya, lalu tambah Oppo F7 case sampai 5 produk"
-56. User    : (mengetik 5 kemudian menekan tombol plus sehingga jadi 6) "lho kok enam?" (mengurangi menggunakan tombol minus)
+56. User    : (mengetik 5 lalu Enter) "Eh ini Enternya kok ga jalan?" (kemudian menekan tombol plus sehingga jadi 6) "lho kok enam?" (mengurangi menggunakan tombol minus)
 57. Nat     : "Apply gratis ongkir voucher."
-58. User    : (mencari bagian voucher) "Ini voucher bagian mana ya? Biasanya pakai hp soalnya." (akhirnya menemukan voucher dan menggunakan voucher gratis ongkir)
-59. Nat     : "Terakhir checkout produk."
-==========
-60. Nat     : "Ubah alamat pengiriman menjadi alamat terserah."
-61. User    : (mengubah alamat dengan menambahkan alamat baru)
-62. Nat     : "Ya konfirmasi."
-63. Nat     : "Ganti metode pembayaran menjadi Akulaku cicilan 1 bulan."
-64. User    : "Ya sudah ini. Alamatnya tadi sudah benar kah? Alamatnya tadi yang mana ya?" (meng-scroll ke atas)
-65. User    : "Ya sudah benar terus buat pesanan." (menekan tombol buat pesanan)
-
+58. User    : (mencari bagian voucher) "Ndek mana ya? Mama ndak tau ini ndek mana ini, ndak kebiasaan soale coba. Ndek mana tempat'e, coba?"
+59. Nat     : "Gratis ongkir voucher."
+60. User    : (akhirnya menemukan voucher dan menggunakan voucher gratis ongkir)"Voucher. Gratis ongkir voucher, oke..."
+61. Nat     : "Pakai koin shopee."
+62. User    : (mencentang koin shopee) "Ya."
+63. Nat     : "Terakhir checkout."
+```
+### Checkout
+```
+64. Nat     : "Ubah alamat pengiriman menjadi alamat terserah."
+65. User    : (mengubah alamat dengan menambahkan alamat baru)
+66. Nat     : "Ya konfirmasi."
+67. Nat     : "Ganti metode pembayaran menjadi Akulaku cicilan 1 bulan."
+68. User    : "Ya sudah ini. Alamatnya tadi sudah benar kah? Alamatnya tadi yang mana ya?" (meng-scroll ke atas)
+69. User    : "Ya sudah benar terus buat pesanan." (menekan tombol buat pesanan)
 ```
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![Artifact Model and Annotation](images/artifact/oppoa71-1.jpg) <br />
+![Artifact Model and Annotation](images/artifact/oppoa71-2.jpg) <br />
+![Artifact Model and Annotation](images/artifact/oppoa71.jpg) <br />
+![Artifact Model and Annotation](images/artifact/search.jpg) <br />
+![Artifact Model and Annotation](images/artifact/kunjungitoko.jpg) <br />
+![Artifact Model and Annotation](images/artifact/shoppingcart.jpg) <br />
+![Artifact Model and Annotation](images/artifact/shoppingcart1.jpg) <br />
+![Artifact Model and Annotation](images/artifact/shoppingcart2.jpg) <br />
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model and Annotation](images/flowmodel.JPG)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
