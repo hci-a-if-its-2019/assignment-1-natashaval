@@ -146,3 +146,12 @@ Lastly, the instructions for checkout are:
 - Put ads that do not match with search keyword
 - Make error sign small
 - List same name products
+
+# Remarks
+> * Thanks for working wholeheartedly on this assignment. Pretty well done!
+> * I have a little comments for the `Models` as there are three breakdowns that do not have line-number referring back to the `Transcript`.
+> * The `Do's` and the `Don't's` quite make sense. Hopefully they will be pretty helpful for your design.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 7                | 0               | 92                 | 82,5       | 90,1  |
